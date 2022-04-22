@@ -1,26 +1,38 @@
 [
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
+    "season": 2022,
+    "name": "premium League",
     "id": 1
   },
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
-    "id": 2
+    "id": 2,
+    "season": 2022,
+    "name": "premium League"
   },
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
-    "id": 3
+    "id": 3,
+    "season": 2022,
+    "name": "premium League"
   },
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
-    "id": 4
+    "id": 4,
+    "season": 2022,
+    "name": "premium League"
   },
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
-    "id": 5
+    "id": 5,
+    "season": 2022,
+    "name": "premium League"
   },
   {
     "image": "https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg",
-    "id": 6
+    "id": 6,
+    "season": 2022,
+    "name": "premium League"
   }
 ]
