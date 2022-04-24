@@ -1,0 +1,24 @@
+{
+    "ads_active": 1,
+    "ads_click":2,
+    "GBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "GRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "GRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+
+
+    "BiddingBanner": "ca-app-pub-3940256099942544/6300978111",
+    "BiddingInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "BiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "BiddingRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "BiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+
+    "FBBanner": "ca-app-pub-3940256099942544/6300978111",
+    "FBInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "FBRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379"
+
+   
+}
