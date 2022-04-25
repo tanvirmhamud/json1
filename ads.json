@@ -6,6 +6,7 @@
     "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GRewarded": "ca-app-pub-3940256099942544/5224354917",
     "GRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "Gnative": "ca-app-pub-3940256099942544/2247696110",
 
 
     "BiddingBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -13,12 +14,14 @@
     "BiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "BiddingRewarded": "ca-app-pub-3940256099942544/5224354917",
     "BiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "BiddingNative": "ca-app-pub-3940256099942544/2247696110",
 
     "FBBanner": "ca-app-pub-3940256099942544/6300978111",
     "FBInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "FBRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379"
+    "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "FbNative": "ca-app-pub-3940256099942544/2247696110"
 
    
 }
