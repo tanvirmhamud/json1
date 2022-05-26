@@ -9,5 +9,13 @@
     "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GRewarded": "ca-app-pub-3940256099942544/5224354917",
     "GRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "Gnative": "ca-app-pub-3940256099942544/2247696110"
+    "Gnative": "ca-app-pub-3940256099942544/2247696110",
+
+    "GIosopenAds": "ca-app-pub-3940256099942544/3419835294",
+    "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "GIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "GIosnative": "ca-app-pub-3940256099942544/2247696110"
 }
