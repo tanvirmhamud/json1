@@ -1,0 +1,31 @@
+{
+    "live": [
+        {
+            "id": 1,
+            "leagueid": 281
+        },
+        {
+            "id": 1,
+            "leagueid": 813
+        },
+        {
+            "id": 1,
+            "leagueid": 129
+        }
+    ],
+
+    "fixture": [
+        {
+            "id": 1,
+            "leagueid": 281
+        },
+        {
+            "id": 1,
+            "leagueid": 813
+        },
+        {
+            "id": 1,
+            "leagueid": 129
+        }
+    ]
+}
