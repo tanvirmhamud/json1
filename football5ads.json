@@ -32,9 +32,16 @@
     "FBIosRewarded": "ca-app-pub-3940256099942544/5224354917",
     "FBIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
     "FbIosNative": "ca-app-pub-3940256099942544/2247696110",
+    
+    "gamerid" : "4798184",
+    "unitybanner": "Banner_Android",
+    "unityinterstitial": "Interstitial_Android",
 
-    "unitybanner": "",
-    "unityinterstitial": ""
-
+    "iosgamerid" : "4798185",
+    "iosunitybanner": "Banner_iOS",
+    "iosunityinterstitial": "Interstitial_iOS"
+  
    
 }
+
+
