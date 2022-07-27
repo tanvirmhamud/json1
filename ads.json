@@ -4,6 +4,7 @@
     "show_nativeads": 4,
     "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
     "GBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GRewarded": "ca-app-pub-3940256099942544/5224354917",
@@ -11,6 +12,7 @@
     "Gnative": "ca-app-pub-3940256099942544/2247696110",
 
     "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GIosopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
