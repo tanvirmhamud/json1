@@ -1,29 +1,38 @@
 {
-    "ads_active": 2,
-    "ads_click":2,
+    "ads_active": 1,
+    "ads_click": 2,
     "show_nativeads": 4,
     "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
-    "GopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "GInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GRewarded": "ca-app-pub-3940256099942544/5224354917",
     "GRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
     "Gnative": "ca-app-pub-3940256099942544/2247696110",
-
-    "GIosopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GIosopenAds": "ca-app-pub-3940256099942544/3419835294",
     "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
     "GIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
     "GIosnative": "ca-app-pub-3940256099942544/2247696110",
-
-
-
-    "1xbitimmage": "https://raw.githubusercontent.com/tanvirmhamud/json1/v2/images/Media44051__850_225anim3.gif",
-    "isbitaffialiate": "https://refpa5362975.top/L?tag=d_1656189m_1622c_&site=1656189&ad=1622",
-
-    "mcwbetimage": "https://raw.githubusercontent.com/tanvirmhamud/json1/v2/images/provider-exchange.jpg",
-    "mcwbetaffialiate": "https://www.casinomcw.com/af/efx0A950/Home%20Page"
+    "FBBanner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+    "FBInterstitial": "IMG_16_9_APP_INSTALL#815695255577163_815696362243719",
+    "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "FBRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "FbNative": "IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650",
+    "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "FBIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "FBIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "FBIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "FBIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "FbIosNative": "ca-app-pub-3940256099942544/2247696110",
+    "gamerid": "4798184",
+    "unitybanner": "Banner_Android",
+    "unityinterstitial": "Interstitial_Android",
+    "iosgamerid": "4798185",
+    "iosunitybanner": "Banner_iOS",
+    "iosunityinterstitial": "Interstitial_iOS"
 }
