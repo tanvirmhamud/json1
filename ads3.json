@@ -1,5 +1,5 @@
 {
-    "live_enable": 1,
+    "live_enable": 0,
     "ads_active": 1,
     "ads_click":2,
     "show_nativeads": 4,
