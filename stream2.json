@@ -1,0 +1,61 @@
+{
+    "live_enable": 1,
+    "Live": [
+      {
+        "matchid": 868072,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 868066,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 868073,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 868075,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 878045,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 878046,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      },
+      {
+        "matchid": 881880,
+        "m3u8": [
+          "http://dfdfbdfbdfbd.m3u8",
+          "http://sdsdvsdv.m3u8",
+          "http://sdvsdvsdvsdvsdv.m3u8"
+        ]
+      }
+    ]
+  }
