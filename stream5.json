@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "UEFA Champions League",
+      "imagea": "https://media.api-sports.io/football/teams/40.png",
+      "imageb": "https://media.api-sports.io/football/teams/541.png",
+      "teama": "Liverpool",
+      "teamb": "Real Madrid",
+      "m3u8": "https.fster.m3u8"
+    },
+    {
+      "id": 2,
+      "title": "UEFA Champions League",
+      "imagea": "https://media.api-sports.io/football/teams/40.png",
+      "imageb": "https://media.api-sports.io/football/teams/541.png",
+      "teama": "Liverpool",
+      "teamb": "Real Madrid",
+      "m3u8": "https://_/master.m3u8"
+    }
+   
+  ]
