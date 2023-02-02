@@ -1,0 +1,21 @@
+{
+  "ads_active": 1,
+  "ads_click": 2,
+  "onesignalappid": "fb2077e0-774f-400e-93b8-fb2b3ddda199",
+  "GBanner": "ca-app-pub-3940256099942544/6300978111",
+  "GopenAds": "ca-app-pub-3940256099942544/630097811107",
+  "GInterstitial": "ca-app-pub-3940256099942544/6300978111",
+  "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+  "GIosopenAds": "ca-app-pub-3940256099942544/6300978111",
+  "GIosInterstitial": "ca-app-pub-3940256099942544/630097811154",
+  "FBBanner": "ca-app-pub-3940256099942544/6300978111",
+  "FBInterstitial": "ca-app-pub-3940256099942544/6300978111",
+  "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
+  "FBIosInterstitial": "ca-app-pub-3940256099942544/630097811143719",
+  "gamerid": "4798184",
+  "unitybanner": "Banner_Android",
+  "unityinterstitial": "Interstitial_Android",
+  "iosgamerid": "4798185",
+  "iosunitybanner": "Banner_iOS",
+  "iosunityinterstitial": "Interstitial_iOS"
+}
