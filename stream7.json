@@ -1,0 +1,65 @@
+{
+    "enable": 1,
+    "data": [
+      {
+        "id": 1,
+        "title": " Live Cricket",
+        "imagea":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "imageb":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "teama": "Team One",
+        "teamb": "Team two",
+        "m3u8":
+            "http://stream.m3u8"
+      },
+      {
+        "id": 1,
+        "title": "Live Cricket",
+        "imagea":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "imageb":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "teama": "Team One",
+        "teamb": "Team two",
+        "m3u8":
+            "http://stream.m3u8"
+      },
+      {
+        "id": 1,
+        "title": " Live Cricket",
+        "imagea":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "imageb":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "teama": "Team One",
+        "teamb": "Team two",
+        "m3u8":
+            "http://.m3u8"
+      },
+      {
+        "id": 1,
+        "title": "Live Cricket",
+        "imagea":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "imageb":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "teama": "Team One",
+        "teamb": "Team two",
+        "m3u8":
+            "http://.m3u8"
+      },
+      {
+        "id": 1,
+        "title": "Live Cricket",
+        "imagea":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "imageb":
+            "https://starsportsofficial.com/apps/Ios_Folder/star_sports/cricket.jpg",
+        "teama": "Team One",
+        "teamb": "Team two",
+        "m3u8":
+            "http://.m3u8"
+      }
+    ]
+  }
