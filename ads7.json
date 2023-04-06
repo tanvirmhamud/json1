@@ -1,0 +1,16 @@
+{
+    "google" : 1,
+    "fb": 1,
+    "ads_click":2,
+    "live_enable_cricket": 1,
+    "live_enable_football": 1,
+    "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
+    "GBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GopenAds": "ca-app-pub-3940256099942544/3419835294",
+    "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
+
+
+    "FBBanner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+    "FBInterstitial": "IMG_16_9_APP_INSTALL#815695255577163_815696362243719"
+
+}
