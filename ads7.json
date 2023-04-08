@@ -1,9 +1,10 @@
 {
-    "app_switch": false,
+  "app_switch": false,
   "applink": "https://play.google.com/store/apps/details?id=com.whatsapp",
   "google": 1,
   "fb": 1,
   "ads_click": 2,
+  "openads" : 1,
   "live_enable_cricket": 1,
   "live_enable_football": 1,
   "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
