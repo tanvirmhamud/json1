@@ -1,0 +1,28 @@
+
+{
+    "app_switch": false,
+    "applink": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "ads_active": 1,
+    "ads_click": 3,
+    "live_enable_cricket": 0,
+    "live_enable_football": 1,
+    "onesignalappid": "f83ef9a8-c986-4c9c-8593-a66068753874",
+    "GBanner": "ca-app-pub-8376955896280462/2433221172",
+    "GopenAds": "ca-app-pub-8376955896280462/5001913884",
+    "GInterstitial": "ca-app-pub-8376955896280462/5474317485",
+    "GRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "GIosBanner": "ca-app-pub-8376955896280462/2433221172",
+    "GIosopenAds": "ca-app-pub-8376955896280462/5001913884",
+    "GIosInterstitial": "ca-app-pub-8376955896280462/5474317485",
+    "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "FBBanner": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+    "FBInterstitial": "IMG_16_9_APP_INSTALL#815695255577163_815696362243719",
+    "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "FBIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "gamerid": "4798184",
+    "unitybanner": "Banner_Android",
+    "unityinterstitial": "Interstitial_Android",
+    "iosgamerid": "4798185",
+    "iosunitybanner": "Banner_iOS",
+    "iosunityinterstitial": "Interstitial_iOS"
+  }
