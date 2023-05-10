@@ -1,47 +1,42 @@
 {
-    "ads_active": 1,
-    "ads_click":2,
+    "app_switch": false,
+    "applink": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "ads_active": 2,
+    "ads_click": 3,
+    "live_enable_cricket": 0,
+    "live_enable_football": 1,
     "show_nativeads": 4,
-    "onesignalappid": "dc78b7c8-6122-43f3-b04e-18345b46fc2d",
-
-
-    "BiddingBanner": "ca-app-pub-3940256099942544/6300978111",
-    "BiddingInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "BiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
-    "BiddingRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "BiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "BiddingNative": "ca-app-pub-3940256099942544/2247696110",
-
-    "IosBiddingBanner": "ca-app-pub-3940256099942544/6300978111",
-    "IosBiddingInterstitial": "ca-app-pub-3940256099942544/1033173712",
-    "IosBiddingInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
-    "IosBiddingRewarded": "ca-app-pub-3940256099942544/5224354917",
-    "IosBiddingRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "IosBiddingNative": "ca-app-pub-3940256099942544/2247696110",
-
-    "FBBanner": "ca-app-pub-3940256099942544/6300978111",
-    "FBInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "onesignalappid": "9e54e6a7-ada5-4f35-8f45-92933c51e437",
+    "GBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GopenAds": "ca-app-pub-3940256099942544/3419835294",
+    "GInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "GInterstitial_Video": "",
+    "GRewarded": "",
+    "GRewarded_Interstitial": "",
+    "Gnative": "",
+    "GIosBanner": "ca-app-pub-3940256099942544/6300978111",
+    "GIosopenAds": "ca-app-pub-3940256099942544/3419835294",
+    "GIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "GIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
+    "GIosRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "GIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
+    "GIosnative": "ca-app-pub-3940256099942544/2247696110",
+    "FBBanner": "938206084066459_938208570732877",
+    "FBInterstitial": "938206084066459_939021207318280",
     "FBInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "FBRewarded": "ca-app-pub-3940256099942544/5224354917",
     "FBRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
-    "FbNative": "ca-app-pub-3940256099942544/2247696110",
-
+    "FbNative": "IMG_16_9_APP_INSTALL#2312433698835503_2964952163583650",
     "FBIosBanner": "ca-app-pub-3940256099942544/6300978111",
     "FBIosInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "FBIosInterstitial_Video": "ca-app-pub-3940256099942544/8691691433",
     "FBIosRewarded": "ca-app-pub-3940256099942544/5224354917",
     "FBIosRewarded_Interstitial": "ca-app-pub-3940256099942544/5354046379",
     "FbIosNative": "ca-app-pub-3940256099942544/2247696110",
-    
-    "gamerid" : "4798184",
+    "gamerid": "4798184",
     "unitybanner": "Banner_Android",
     "unityinterstitial": "Interstitial_Android",
-
-    "iosgamerid" : "4798185",
+    "iosgamerid": "4798185",
     "iosunitybanner": "Banner_iOS",
     "iosunityinterstitial": "Interstitial_iOS"
-  
-   
-}
-
-
+  }
